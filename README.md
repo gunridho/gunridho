@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gunridho
+- 👀 I’m interested in creative thinking
+- 🌱 I’m currently learning Web developers and UI/UX design
